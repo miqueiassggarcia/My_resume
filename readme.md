@@ -1,23 +1,32 @@
-# Dennis Ivy Digital Resume
+# Meu Portfólio Pessoal
 
-A digital resume website built based on the content from my personal REAL [resume](./assets/resume.pdf)
+Este é o meu portfólio pessoal. Aqui apresento projetos, experiências e formas de contato.
 
-View live demo here using github pages: [Live Demo](https://divanov11.github.io/Digital-Resume/)
+> Inspirado e adaptado a partir do projeto "Dennis Ivy Digital Resume" por Dennis Ivy — **créditos e agradecimentos**: https://github.com/divanov11/Digital-Resume
 
-## Deploy your own digital resume
+A versão original contém o conteúdo do currículo em PDF: [resume](./assets/resume.pdf)
 
-1. clone repo `git clone https://github.com/divanov11/Digital-Resume` & update content to represent your information
-2. Create a new github repo
-3. Commit and push to github.
+Veja a demonstração ao vivo: [Live Demo](https://divanov11.github.io/Digital-Resume/)
+
+## Como publicar seu próprio portfólio
+
+1. Clone o repositório e atualize o conteúdo para representar suas informações:
 
 ```
+git clone https://github.com/divanov11/Digital-Resume
 git add .
-git commit -m "your commit notes"
+git commit -m "seu commit"
 git push -u origin main
 ```
 
-4. Publish with github pages
+2. Crie um novo repositório no GitHub e empurre (push) seu conteúdo.
 
-Once you've added your project to GitHub, you can publish by going to the `settings` tab from your repo (this should be in the top right corner), then select `pages` (this should be towards the bottom left).
+3. Publique com GitHub Pages:
 
-From here make sure you have "deploy from branch" selected and save your settings. Once saved, it should take a few minutes to generate and display your new live GitHub pages url.
+- Vá em `Settings` do repositório > `Pages`
+- Selecione a branch que deseja publicar (ex.: `main`) e salve.
+- Aguarde alguns minutos para o GitHub gerar a URL pública.
+
+---
+
+**Nota:** Este projeto foi adaptado para uso pessoal; mantenho os créditos ao autor da inspiração. Se usar este projeto como base, considere também dar crédito ao autor original.
